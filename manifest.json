@@ -1,10 +1,11 @@
 {
   "name": "GIF Categories",
-  "description": "Organize your favourite GIFs into custom categories. Long-press any GIF to add it to a category or create a new one.",
+  "description": "Organise your favourite GIFs into custom categories. Long-press any GIF to add it to a category or create a new one.",
   "authors": [
     {
-      "name": "you",
+      "name": "neziareal",
       "id": "000000000000000000"
     }
-  ]
+  ],
+  "main": "index.js"
 }
