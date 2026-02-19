@@ -1,7 +1,0 @@
-{
-    "name": "GIF-Organizer",
-    "description": "Organize favorited GIFs into custom categories with a long-press menu.",
-    "authors": [{ "name": "YourName", "id": "000000000000000000" }],
-    "main": "index.tsx",
-    "vendetta": { "icon": "ic_gif_24px" }
-}
